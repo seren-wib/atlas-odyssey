@@ -28,7 +28,7 @@ CUVIC 바이브 코딩 대회 개인 출품작. 대회 규칙은 `docs/competiti
 
 ## GitHub
 
-- 원격: `github.com/h2zkzd5whp-droid/atlas-odyssey` (public)
+- 원격: `github.com/seren-wib/atlas-odyssey` (public)
 - 기본 브랜치 `develop`. squash merge 비활성
 - 룰셋: `develop`(rebase·merge commit 허용), `main`(merge commit만). 둘 다 삭제·force push 금지, PR 필수, 승인 0명
 - `develop`·`main`에 직접 커밋·푸시하지 않는다. 필요해 보이면 멈추고 사용자에게 알린다
