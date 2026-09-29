@@ -176,7 +176,7 @@ WSL 터미널이나 macOS 터미널에서 직접 실행하면 생기지 않는�
 ```bash
 brew install gh
 gh auth login
-git clone https://github.com/h2zkzd5whp-droid/atlas-odyssey.git
+git clone https://github.com/seren-wib/atlas-odyssey.git
 cd atlas-odyssey
 git switch develop
 ```
