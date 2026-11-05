@@ -1,6 +1,10 @@
 # atlas-odyssey
 
-CUVIC 바이브 코딩 대회 개인 출품작. 대회 규칙은 `docs/competition-rules.md`. 주제·기술 스택은 미정.
+CUVIC 바이브 코딩 대회 개인 출품작. 대회 규칙은 `docs/competition-rules.md`.
+
+주제: 개인 학습 지도. 배운 것을 지도(분야 → 로드맵 → PART → 섹션 → 서브섹션 → 항목) 위에 수준(lv 1~4)과 근거로 기록한다. AI는 커밋·블로그 글·수업 노트를 읽고 기록을 제안만 하고, 저장은 프론트엔드에서 사용자가 확인할 때만 한다. 기술 스택은 설계(SDD) 단계에서 정한다.
+
+계획서·SRS·AI 워크플로우 문서는 Google Drive `atlas-odyssey` 폴더의 Google Docs가 원본이다. 링크는 `README.md`.
 
 ## 작업 흐름
 
